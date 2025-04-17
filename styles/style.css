@@ -87,7 +87,7 @@ body {
   font-family: var(--font-primaria);
 }
 .imagem {
-  width: 50%;
+  width: 75%;
   border-radius: 35px;
 }
 .apresentacao__links__link:hover {
